@@ -1,0 +1,7 @@
+**/__pycache__
+**/*.pyc
+venv
+nn_env
+**/raytune_*/*
+.ipynb_checkpoints
+.idea
